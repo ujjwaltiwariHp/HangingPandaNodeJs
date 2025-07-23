@@ -1,0 +1,24 @@
+{
+  "name": "hangingpandanodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03_Event.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwaltiwariHp/HangingPandaNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ujjwaltiwariHp/HangingPandaNodeJs/issues"
+  },
+  "homepage": "https://github.com/ujjwaltiwariHp/HangingPandaNodeJs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
